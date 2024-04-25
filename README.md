@@ -1,5 +1,6 @@
 # php12
-to practice php
+to practice html
 name of language:-php 
-creator simran
+creator raji
+
 
